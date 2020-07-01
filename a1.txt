@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 first file
 ags
+=======
+abcdf
+>>>>>>> Stashed changes
